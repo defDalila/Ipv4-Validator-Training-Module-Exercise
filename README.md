@@ -1,4 +1,4 @@
-# <p> Ipv4 Validator - Training Module Exercise <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 60px; height: 60px; vertical-align: middle" /></p>
+# <p> Ipv4 Validator - Training Module Exercise  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 40px; height: 40px; vertical-align: middle" /></p>
 
  
 > Este repositório contém um código para a validação de endereços IPv4 que foi inicialmente desenvolvido em um exercício do módulo de treinamento da [Microsoft Learn](https://learn.microsoft.com/).
@@ -22,13 +22,12 @@
 
 
 
-## P.S: 👀
+## :eyes: P.S: 
 
 
-Estou aproveitando esse código para estudar Expressões Lambda...
+Estou aproveitando esse exercício para estudar `Expressões Lambda` e serialização de objetos JSON...
 
-O objetivo maior é voltar nesse repositório  daqui um tempo, olhar pra esse código e ficar com vergonha da Dalila do passado!  😆
-
+O objetivo maior é voltar nesse repositório daqui aalgum tempo, olhar para este código e ficar com vergonha da Dalila do passado!  😆
 
 
 
