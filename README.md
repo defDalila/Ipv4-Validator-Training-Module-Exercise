@@ -1,4 +1,4 @@
-# <p> Ipv4 Validator - Training Module Exercise  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 40px; height: 40px; vertical-align: middle" /></p>
+# <p> Ipv4 Validator - Training Module Exercise  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 40px; height: 40px; vertical-align: bottom" /></p>
 
  
 > Este repositório contém um código para a validação de endereços IPv4 que foi inicialmente desenvolvido em um exercício do módulo de treinamento da [Microsoft Learn](https://learn.microsoft.com/).
